@@ -5,7 +5,6 @@ This repository contains Python code used to investigate a competitive Hebbian l
 
 In order to explore the full range of possible rules, we used simulation based inference. We take as reference [^1], where simulation-based inference was used to infer the distribution of plasticity rules in spiking neural networks while ensuring strong biologically plausible constraints. 
 
-All revelant files are inside the new/ repository
 
 ## Repository Structure
 
