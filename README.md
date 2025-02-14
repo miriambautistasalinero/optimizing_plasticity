@@ -30,7 +30,12 @@ To parallelize the implementation in a more efficient way and reduce computation
 * **clasifier.py** : Taking as reference [^3] we tried to implement a classifier to reduce the amount of innacurate outputs from the mechanistic model. However, the amount of data we were simulating was already large enough and the used of the classfier did not improve the results.
 
 **Python Notebooks**
-The python botebooks found in the current repository where used to test the models and the implementation of sbi. 
+
+The python botebooks found in the current repository where used to test the models and the implementation of sbi.
+
+**sh files**
+
+.sh files are used to initialized jobs in the cluster. 
 
 # Plots
 All the figures submited for the project were plotted in Jupyter Notebooks. The most relevents plots are the ones found in *P1_final_plots.ipynb*, *P2_final_plots.ipynb* and *P3_final_plots.ipynb*. 
